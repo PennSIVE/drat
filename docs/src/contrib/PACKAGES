@@ -1,3 +1,10 @@
+Package: bossrdata
+Version: 0.0.1
+Depends: R (>= 4.2)
+License: MIT + file LICENSE
+MD5sum: fd4ab4b471f43a3d0ca3177699fa7ed5
+NeedsCompilation: no
+
 Package: drat
 Version: 0.1.8
 Depends: R (>= 3.2.0)
