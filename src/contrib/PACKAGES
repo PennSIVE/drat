@@ -4,3 +4,10 @@ Depends: R (>= 4.2)
 License: MIT + file LICENSE
 MD5sum: 3f110fa388d7a8f374a0ec8a26f89378
 NeedsCompilation: no
+
+Package: hurricaneexposuredata
+Version: 0.1.0
+Depends: R (>= 3.6)
+License: GPL (>= 2)
+MD5sum: a09821a2541bb109c221ca35af6f6293
+NeedsCompilation: no
