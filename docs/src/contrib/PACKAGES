@@ -5,6 +5,13 @@ License: MIT + file LICENSE
 MD5sum: e01cb307e30315431f77e1fb9eb5c25b
 NeedsCompilation: no
 
+Package: bossrdata
+Version: 1.0.0
+Depends: R (>= 4.1)
+License: MIT + file LICENSE
+MD5sum: 8ea97fa4a4c7ae69a006eb9ad09c0a9c
+NeedsCompilation: no
+
 Package: drat
 Version: 0.1.8
 Depends: R (>= 3.2.0)
